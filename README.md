@@ -9,3 +9,11 @@
 5) Find the largest and smallest number in an unsorted array. (Package name: maxminarray) 
    
 6) Find the missing number in a given integer array of 1 to n. (Package name: missingnumber)
+
+7) Find Freqeuncy of elements in array (Package name: duplicateinarray.Hashtable)
+
+8) Check Palindrome using Recursion (Package name: palindromerecursion)
+
+9) Implement Stack in Java (not using collections) (Package name: customstack)
+ 
+8) Chess Problem. Kings Move (Package name: chessproblem)
